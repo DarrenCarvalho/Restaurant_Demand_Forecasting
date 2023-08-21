@@ -1,10 +1,12 @@
 # Restaurant_Demand_Forecasting
 
-Main Dataset - https://drive.google.com/file/d/1WFgbXtClNiModxqTcuBcKutUAK6NBv7s/view?usp=sharing 
-\nData Files post preprocessing - https://drive.google.com/file/d/1ygXdnitJ3oS87xoCJDiooZa9BathHOHe/view?usp=sharing
-Modelling Datasets - https://drive.google.com/file/d/1IEs_sK6zlvfc38nDVEEf_za_pVdxrUrA/view?usp=sharing 
+# Datasets 
 
+1. Main Dataset - https://drive.google.com/file/d/1WFgbXtClNiModxqTcuBcKutUAK6NBv7s/view?usp=sharing 
+2. Data Files post preprocessing - https://drive.google.com/file/d/1ygXdnitJ3oS87xoCJDiooZa9BathHOHe/view?usp=sharing
+3. Modelling Datasets - https://drive.google.com/file/d/1IEs_sK6zlvfc38nDVEEf_za_pVdxrUrA/view?usp=sharing 
 
+# ETL
 1. Create a copy in drive for the main dataset and Data Files Post pre processing
 2. Copy that path to Google Colab (Note for the modelling.ipynb file you only need to copy modelling dataset)
 3. All initial commands in the colab file are extracting the zip file. You just need to change respective path based on your loaction of the file
